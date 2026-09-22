@@ -7,6 +7,10 @@ Apple 官方随机器型壁纸合集，从 **iPhone 13（2021）到 iPhone 18 Pr
 
 ![预览](preview.jpg)
 
+## 在线浏览
+
+🌐 <https://leon7786.github.io/20260923-iphone-wallpapers/> — 按世代筛选、搜索颜色、点击预览，单张原图直接下载。
+
 ## 目录
 
 | 文件夹 | 机型 | 年份 | 内容 | 文件数 | 分辨率 |
