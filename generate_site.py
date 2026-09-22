@@ -6,6 +6,8 @@ from PIL import Image
 BASE = "/root/Projects/20260922-iphone-wallpapers"
 OUT = os.path.join(BASE, "iPhone-stock-wallpapers-13to18")
 THUMBS = os.path.join(BASE, "thumbs")
+PREVIEW = os.path.join(BASE, "preview")
+OUTNAME = os.path.basename(OUT)
 
 MODELS = [
     ("01-iPhone-13",     "iPhone 13 / 13 mini",          "iPhone 13",      2021, 13, "Twist 5 色 × 浅色 / 深色",  "iPhone13-",       "Twist"),
@@ -107,11 +109,17 @@ for folder, model, short, year, gen, desc, prefix, _x in MODELS:
         if not src:
             continue
         tpath = os.path.join(tdir, stem + ".jpg")
+        pdir = os.path.join(PREVIEW, folder)
+        os.makedirs(pdir, exist_ok=True)
+        ppath = os.path.join(pdir, stem + ".jpg")
         try:
             im = Image.open(src).convert("RGB")
             w = 480
             h = max(1, round(im.height * w / im.width))
             im.resize((w, h), Image.LANCZOS).save(tpath, "JPEG", quality=82, optimize=True)
+            pw = 800
+            ph = max(1, round(im.height * pw / im.width))
+            im.resize((pw, ph), Image.LANCZOS).save(ppath, "JPEG", quality=80, optimize=True)
             n_thumb += 1
         except Exception as e:
             print("thumb fail", src, e)
@@ -123,9 +131,10 @@ for folder, model, short, year, gen, desc, prefix, _x in MODELS:
             kb = round(os.path.getsize(os.path.join(d, fn)) / 1024)
             total_files += 1
             total_mb += kb / 1024
-            fl.append({"ext": e.upper(), "file": f"{folder}/{fn}", "kb": kb})
+            fl.append({"ext": e.upper(), "file": f"{OUTNAME}/{folder}/{fn}", "kb": kb})
         items.append({"label": label(stem, prefix), "stem": stem,
                       "thumb": f"thumbs/{folder}/{stem}.jpg",
+                      "preview": f"preview/{folder}/{stem}.jpg",
                       "w": fw, "h": fh, "files": fl})
     data["models"].append({"folder": folder, "model": model, "short": short,
                            "year": year, "gen": gen, "desc": desc,

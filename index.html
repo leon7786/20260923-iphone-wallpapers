@@ -270,7 +270,7 @@ function openLb(key) {
   const m = DATA.models.find(x => x.folder === folder);
   const it = m.items.find(x => x.stem === stem);
   const best = it.files.find(f => f.ext === 'JPG') || it.files.find(f => f.ext === 'PNG') || it.files[0];
-  document.getElementById('lbimg').src = encodeURI(best.file);
+  document.getElementById('lbimg').src = it.preview;
   document.getElementById('lbname').textContent = m.short + ' · ' + it.label;
   document.getElementById('lbdim').textContent = it.w + ' × ' + it.h + ' · ' + best.ext + ' · ' +
     (best.kb > 1024 ? (best.kb / 1024).toFixed(1) + ' MB' : best.kb + ' KB');
