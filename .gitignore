@@ -1,0 +1,9 @@
+# .gitignore — keep the repo to the wallpapers themselves
+zips/
+_extract/
+staging/
+art_*.html
+s_iPhone*.html
+wc.html
+*.log
+iPhone-stock-wallpapers-13to18.zip

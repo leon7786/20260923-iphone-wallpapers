@@ -1,0 +1,1089 @@
+{
+ "01-iPhone-13": [
+  {
+   "file": "iPhone13-Twist-Black-Dark.heic",
+   "kb": 1948,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Black-Dark.jpg",
+   "kb": 609,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Black-Light.heic",
+   "kb": 2114,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Black-Light.jpg",
+   "kb": 697,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Blue-Dark.heic",
+   "kb": 2062,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Blue-Dark.jpg",
+   "kb": 678,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Blue-Light.heic",
+   "kb": 2661,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Blue-Light.jpg",
+   "kb": 1039,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Pink-Dark.heic",
+   "kb": 2127,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Pink-Dark.jpg",
+   "kb": 677,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Pink-Light.heic",
+   "kb": 3314,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Pink-Light.jpg",
+   "kb": 1504,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Red-Dark.heic",
+   "kb": 1901,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Red-Dark.jpg",
+   "kb": 573,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-Red-Light.heic",
+   "kb": 2771,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-Red-Light.jpg",
+   "kb": 1096,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-White-Dark.heic",
+   "kb": 2078,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-White-Dark.jpg",
+   "kb": 683,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13-Twist-White-Light.heic",
+   "kb": 3369,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13-Twist-White-Light.jpg",
+   "kb": 1569,
+   "w": 1404,
+   "h": 3040,
+   "format": "JPEG"
+  }
+ ],
+ "02-iPhone-13-Pro": [
+  {
+   "file": "iPhone13Pro-LightBeams-Blue-Dark.heic",
+   "kb": 1476,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Blue-Dark.jpg",
+   "kb": 385,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Blue-Light.heic",
+   "kb": 1825,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Blue-Light.jpg",
+   "kb": 496,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-DarkGray-Dark.heic",
+   "kb": 1265,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-DarkGray-Dark.jpg",
+   "kb": 300,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-DarkGray-Light.heic",
+   "kb": 1630,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-DarkGray-Light.jpg",
+   "kb": 392,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Gold-Dark.heic",
+   "kb": 1548,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Gold-Dark.jpg",
+   "kb": 417,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Gold-Light.heic",
+   "kb": 2319,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Gold-Light.jpg",
+   "kb": 720,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Silver-Dark.heic",
+   "kb": 1766,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Silver-Dark.jpg",
+   "kb": 493,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Silver-Light.heic",
+   "kb": 2284,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone13Pro-LightBeams-Silver-Light.jpg",
+   "kb": 718,
+   "w": 1542,
+   "h": 3334,
+   "format": "JPEG"
+  }
+ ],
+ "03-iPhone-14": [
+  {
+   "file": "iPhone14-Blue.jpg",
+   "kb": 664,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14-Midnight.jpg",
+   "kb": 625,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14-Purple.jpg",
+   "kb": 686,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14-Red.jpg",
+   "kb": 653,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14-Starlight.jpg",
+   "kb": 710,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  }
+ ],
+ "04-iPhone-14-Pro": [
+  {
+   "file": "iPhone14Pro-DeepPurple.jpg",
+   "kb": 286,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14Pro-Gold.jpg",
+   "kb": 443,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14Pro-Silver.jpg",
+   "kb": 440,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone14Pro-SpaceBlack.jpg",
+   "kb": 422,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  }
+ ],
+ "05-iPhone-15": [
+  {
+   "file": "iPhone15-Black.jpg",
+   "kb": 2389,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15-Blue.jpg",
+   "kb": 3278,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15-Green.jpg",
+   "kb": 3266,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15-Pink.jpg",
+   "kb": 3059,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15-Yellow.jpg",
+   "kb": 3277,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  }
+ ],
+ "06-iPhone-15-Pro": [
+  {
+   "file": "iPhone15Pro-BlackTitanium-AlwaysOnDisplay.heic",
+   "kb": 1542,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-AlwaysOnDisplay.jpg",
+   "kb": 2814,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-AlwaysOnDisplaytoLockScreen-1.heic",
+   "kb": 1862,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-AlwaysOnDisplaytoLockScreen-1.jpg",
+   "kb": 3391,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-AlwaysOnDisplaytoLockScreen-2.heic",
+   "kb": 2012,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-AlwaysOnDisplaytoLockScreen-2.jpg",
+   "kb": 3728,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-HomeScreen.heic",
+   "kb": 2027,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-HomeScreen.jpg",
+   "kb": 3901,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-LockScreen.heic",
+   "kb": 2162,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlackTitanium-LockScreen.jpg",
+   "kb": 3979,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-AlwaysOnDisplay.heic",
+   "kb": 1640,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-AlwaysOnDisplay.jpg",
+   "kb": 3314,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-AlwaysOnDisplaytoLockScreen-1.heic",
+   "kb": 1973,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-AlwaysOnDisplaytoLockScreen-1.jpg",
+   "kb": 3845,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-AlwaysOnDisplaytoLockScreen-2.heic",
+   "kb": 2125,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-AlwaysOnDisplaytoLockScreen-2.jpg",
+   "kb": 4178,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-HomeScreen.heic",
+   "kb": 2393,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-HomeScreen.jpg",
+   "kb": 4851,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-LockScreen.heic",
+   "kb": 2430,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-BlueTitanium-LockScreen.jpg",
+   "kb": 4853,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-AlwaysOnDisplay.heic",
+   "kb": 1575,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-AlwaysOnDisplay.jpg",
+   "kb": 3013,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-AlwaysOnDisplaytoLockScreen-1.heic",
+   "kb": 2060,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-AlwaysOnDisplaytoLockScreen-1.jpg",
+   "kb": 3940,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-AlwaysOnDisplaytoLockScreen-2.heic",
+   "kb": 2123,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-AlwaysOnDisplaytoLockScreen-2.jpg",
+   "kb": 4111,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-HomeScreen.heic",
+   "kb": 2384,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-HomeScreen.jpg",
+   "kb": 4780,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-LockScreen.heic",
+   "kb": 2494,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-NaturalTitanium-LockScreen.jpg",
+   "kb": 4859,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-AlwaysOnDisplay.heic",
+   "kb": 1607,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-AlwaysOnDisplay.jpg",
+   "kb": 2777,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-AlwaysOnDisplaytoLockScreen-1.heic",
+   "kb": 2036,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-AlwaysOnDisplaytoLockScreen-1.jpg",
+   "kb": 3583,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-AlwaysOnDisplaytoLockScreen-2.heic",
+   "kb": 2199,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-AlwaysOnDisplaytoLockScreen-2.jpg",
+   "kb": 3904,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-HomeScreen.heic",
+   "kb": 2332,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-HomeScreen.jpg",
+   "kb": 4315,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-LockScreen.heic",
+   "kb": 2486,
+   "w": 0,
+   "h": 0,
+   "format": "HEIC"
+  },
+  {
+   "file": "iPhone15Pro-WhiteTitanium-LockScreen.jpg",
+   "kb": 4441,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  }
+ ],
+ "07-iPhone-16": [
+  {
+   "file": "iPhone16-Black.jpg",
+   "kb": 3072,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16-Pink.jpg",
+   "kb": 3684,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16-Teal.jpg",
+   "kb": 3760,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16-Ultramarine.jpg",
+   "kb": 3687,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16-White.jpg",
+   "kb": 3068,
+   "w": 1290,
+   "h": 2796,
+   "format": "JPEG"
+  }
+ ],
+ "08-iPhone-16-Pro": [
+  {
+   "file": "iPhone16Pro-BlackTitanium.jpg",
+   "kb": 1988,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16Pro-DesertTitanium.jpg",
+   "kb": 2102,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16Pro-NaturalTitanium.jpg",
+   "kb": 2046,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone16Pro-WhiteTitanium.jpg",
+   "kb": 2029,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  }
+ ],
+ "09-iPhone-16e": [
+  {
+   "file": "iPhone16e-Official.jpg",
+   "kb": 1438,
+   "w": 1179,
+   "h": 2556,
+   "format": "JPEG"
+  }
+ ],
+ "10-iPhone-17": [
+  {
+   "file": "iPhone17-Black-Homescreen.jpg",
+   "kb": 2245,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-Black-Lockscreen.jpg",
+   "kb": 2345,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-Lavender-Homescreen.jpg",
+   "kb": 2300,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-Lavender-Lockscreen.jpg",
+   "kb": 2366,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-MistBlue-Homescreen.jpg",
+   "kb": 2293,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-MistBlue-Lockscreen.jpg",
+   "kb": 2392,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-Sage-Homescreen.jpg",
+   "kb": 2273,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-Sage-Lockscreen.jpg",
+   "kb": 2374,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-White-Homescreen.jpg",
+   "kb": 2210,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17-White-Lockscreen.jpg",
+   "kb": 2276,
+   "w": 1206,
+   "h": 2622,
+   "format": "JPEG"
+  }
+ ],
+ "11-iPhone-17-Pro": [
+  {
+   "file": "iPhone17Pro-CosmicOrange-Homescreen.jpg",
+   "kb": 3057,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17Pro-CosmicOrange-Lockscreen.jpg",
+   "kb": 3593,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17Pro-DeepBlue-Homescreen.jpg",
+   "kb": 2960,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17Pro-DeepBlue-Lockscreen.jpg",
+   "kb": 3366,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17Pro-Silver-Homescreen.jpg",
+   "kb": 2856,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17Pro-Silver-Lockscreen.jpg",
+   "kb": 3362,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  }
+ ],
+ "12-iPhone-Air": [
+  {
+   "file": "iPhoneAir-CloudWhite-HomeScreen.jpg",
+   "kb": 1771,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-CloudWhite-LockScreen.jpg",
+   "kb": 2250,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-LightGold-HomeScreen.jpg",
+   "kb": 1950,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-LightGold-LockScreen.jpg",
+   "kb": 2491,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-SkyBlue-HomeScreen.jpg",
+   "kb": 1702,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-SkyBlue-LockScreen.jpg",
+   "kb": 2470,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-SpaceBlack-HomeScreen.jpg",
+   "kb": 1658,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneAir-SpaceBlack-LockScreen.jpg",
+   "kb": 2528,
+   "w": 1260,
+   "h": 2736,
+   "format": "JPEG"
+  }
+ ],
+ "13-iPhone-17e": [
+  {
+   "file": "iPhone17e-Black.jpg",
+   "kb": 1542,
+   "w": 1170,
+   "h": 2532,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17e-SoftPink.jpg",
+   "kb": 1451,
+   "w": 1170,
+   "h": 2532,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone17e-White.jpg",
+   "kb": 1675,
+   "w": 1170,
+   "h": 2532,
+   "format": "JPEG"
+  }
+ ],
+ "14-iPhone-18-Pro": [
+  {
+   "file": "iPhone18Pro-Black-Home-Screen.jpg",
+   "kb": 2251,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Black-Lock-Screen.jpg",
+   "kb": 2852,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Burgundy-Home-Screen.jpg",
+   "kb": 3710,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Burgundy-Lock-Screen.jpg",
+   "kb": 4231,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Glacier-Home-Screen.jpg",
+   "kb": 2879,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Glacier-Lock-Screen.jpg",
+   "kb": 3581,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Silver-Home-Screen.jpg",
+   "kb": 2732,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhone18Pro-Silver-Lock-Screen.jpg",
+   "kb": 2762,
+   "w": 1320,
+   "h": 2868,
+   "format": "JPEG"
+  }
+ ],
+ "15-iPhone-Duo": [
+  {
+   "file": "iPhoneDuo-Inner-Home-Screen-Dark.jpg",
+   "kb": 4217,
+   "w": 2853,
+   "h": 2007,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Home-Screen-Dark.png",
+   "kb": 3280,
+   "w": 2853,
+   "h": 2007,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Home-Screen-Light.jpg",
+   "kb": 4351,
+   "w": 2853,
+   "h": 2007,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Home-Screen-Light.png",
+   "kb": 3530,
+   "w": 2853,
+   "h": 2007,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Lock-Screen-Dark.jpg",
+   "kb": 4438,
+   "w": 2853,
+   "h": 2007,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Lock-Screen-Dark.png",
+   "kb": 4802,
+   "w": 2853,
+   "h": 2007,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Lock-Screen-Light.jpg",
+   "kb": 5111,
+   "w": 2853,
+   "h": 2007,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Inner-Lock-Screen-Light.png",
+   "kb": 6071,
+   "w": 2853,
+   "h": 2007,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Home-Screen-Dark.jpg",
+   "kb": 1992,
+   "w": 1398,
+   "h": 2034,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Home-Screen-Dark.png",
+   "kb": 1624,
+   "w": 1398,
+   "h": 2034,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Home-Screen-Light.jpg",
+   "kb": 2090,
+   "w": 1398,
+   "h": 2034,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Home-Screen-Light.png",
+   "kb": 1797,
+   "w": 1398,
+   "h": 2034,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Lock-Screen-Dark.jpg",
+   "kb": 2055,
+   "w": 1398,
+   "h": 2034,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Lock-Screen-Dark.png",
+   "kb": 2131,
+   "w": 1398,
+   "h": 2034,
+   "format": "PNG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Lock-Screen-Light.jpg",
+   "kb": 2323,
+   "w": 1398,
+   "h": 2034,
+   "format": "JPEG"
+  },
+  {
+   "file": "iPhoneDuo-Outer-Lock-Screen-Light.png",
+   "kb": 2657,
+   "w": 1398,
+   "h": 2034,
+   "format": "PNG"
+  }
+ ]
+}
