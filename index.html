@@ -31,7 +31,7 @@ a{color:inherit;text-decoration:none}
 .brand .dot{width:22px;height:22px;border-radius:8px;background:var(--grad);box-shadow:0 4px 10px rgba(76,195,247,.4)}
 .nav .links{margin-left:auto;display:flex;align-items:center;gap:20px;font-size:14px;color:var(--muted)}
 .nav .links a:hover{color:var(--ink)}
-.nav .btn-sm{padding:8px 16px;border-radius:999px;background:var(--grad);color:#fff;font-weight:600;font-size:13.5px;box-shadow:0 5px 14px rgba(76,195,247,.35)}
+.gh{font-weight:600}
 
 /* ---------- hero ---------- */
 .hero{padding:74px 0 46px;text-align:center}
@@ -123,7 +123,7 @@ footer{border-top:1px solid var(--line);background:rgba(255,255,255,.7);padding:
 .f-links{display:flex;gap:18px;flex-wrap:wrap}
 .visitor img{border-radius:7px;opacity:.72;transition:.25s;vertical-align:middle}
 .visitor img:hover{opacity:1}
-@media(max-width:640px){.nav-in{height:54px;gap:8px;padding:0 14px}.brand{font-size:14px;white-space:nowrap}.nav .links a:not(.btn-sm){display:none}.btn-sm{padding:7px 13px;font-size:12.5px}.wrap{padding:0 14px}.hero{padding:42px 0 26px}h1{font-size:27px;letter-spacing:-.7px}.lead{font-size:14.5px}.tagline{font-size:12px;padding:6px 13px}.hint{font-size:12px}.filterbar{top:54px;padding:10px 0 8px}.filter-in{padding:0 14px;gap:8px;flex-wrap:nowrap;align-items:flex-start}.chips{flex:1;display:grid;grid-template-columns:repeat(3,1fr);gap:6px}.chip{padding:8px 2px;font-size:11.5px;text-align:center;border-radius:10px;letter-spacing:-.2px}.search{flex:0 0 106px;align-self:flex-start}.search input{width:100%;padding:9px 8px 9px 27px;border-radius:11px}.search svg{left:9px;width:13px;height:13px}.filter-sub{padding:0 14px;margin-top:7px}.stats{gap:8px;margin:20px 0 18px}.stat{padding:9px 12px;min-width:86px;border-radius:13px}.stat b{font-size:17px}.stat i{font-size:11px}.sec-desc{display:none}.sec-head h2{font-size:18px}.sec-head{gap:8px;margin-bottom:13px}main{padding:22px 0 10px}.section{margin-bottom:36px}.lb{padding:14px}.lb-box{border-radius:18px;padding:13px}}
+@media(max-width:640px){.nav-in{height:54px;gap:8px;padding:0 14px}.brand{font-size:14px;white-space:nowrap}.nav .links{gap:14px;font-size:13.5px}.nav .links a:not(.gh){display:none}.wrap{padding:0 14px}.hero{padding:42px 0 26px}h1{font-size:27px;letter-spacing:-.7px}.lead{font-size:14.5px}.tagline{font-size:12px;padding:6px 13px}.hint{font-size:12px}.filterbar{top:54px;padding:10px 0 8px}.filter-in{padding:0 14px;gap:8px;flex-wrap:nowrap;align-items:flex-start}.chips{flex:1;display:grid;grid-template-columns:repeat(3,1fr);gap:6px}.chip{padding:8px 2px;font-size:11.5px;text-align:center;border-radius:10px;letter-spacing:-.2px}.search{flex:0 0 106px;align-self:flex-start}.search input{width:100%;padding:9px 8px 9px 27px;border-radius:11px}.search svg{left:9px;width:13px;height:13px}.filter-sub{padding:0 14px;margin-top:7px}.stats{gap:8px;margin:20px 0 18px}.stat{padding:9px 12px;min-width:86px;border-radius:13px}.stat b{font-size:17px}.stat i{font-size:11px}.sec-desc{display:none}.sec-head h2{font-size:18px}.sec-head{gap:8px;margin-bottom:13px}main{padding:22px 0 10px}.section{margin-bottom:36px}.lb{padding:14px}.lb-box{border-radius:18px;padding:13px}}
 </style>
 </head>
 <body>
@@ -134,8 +134,7 @@ footer{border-top:1px solid var(--line);background:rgba(255,255,255,.7);padding:
     <div class="links">
       <a href="#all">全部壁纸</a>
       <a href="#about">说明</a>
-      <a href="https://github.com/leon7786/20260923-iphone-wallpapers" target="_blank" rel="noopener">GitHub</a>
-      <a class="btn-sm" href="https://github.com/leon7786/20260923-iphone-wallpapers/releases/download/v1.0/iPhone-stock-wallpapers-13to18.zip" download>下载全部</a>
+      <a class="gh" href="https://github.com/leon7786/20260923-iphone-wallpapers" target="_blank" rel="noopener">GitHub</a>
     </div>
   </div>
 </nav>
@@ -147,10 +146,8 @@ footer{border-top:1px solid var(--line);background:rgba(255,255,255,.7);padding:
      保留原始分辨率与原生格式，不做任何缩放与重压缩。</p>
   <div class="stats" id="stats"></div>
   <div class="cta">
-    <a class="btn" href="https://github.com/leon7786/20260923-iphone-wallpapers/releases/download/v1.0/iPhone-stock-wallpapers-13to18.zip" download>
-      ⬇ 打包下载全部（<span id="zipmb">349</span> MB）
-    </a>
-    <a class="btn ghost" href="#all">先逛逛单张 →</a>
+    <a class="btn" href="#all">浏览全部壁纸 →</a>
+    <a class="btn ghost" href="https://github.com/leon7786/20260923-iphone-wallpapers" target="_blank" rel="noopener">GitHub 仓库</a>
   </div>
   <p class="hint">iPhone 上保存图片后：<code>设置 → 壁纸 → 添加新壁纸</code>；HEIC 直接设为壁纸画质更好。</p>
 </header>
@@ -186,7 +183,6 @@ footer{border-top:1px solid var(--line);background:rgba(255,255,255,.7);padding:
       <b>快捷入口</b>
       <div class="f-links">
         <a href="https://github.com/leon7786/20260923-iphone-wallpapers" target="_blank" rel="noopener">源码仓库</a>
-        <a href="https://github.com/leon7786/20260923-iphone-wallpapers/releases" target="_blank" rel="noopener">Release 打包</a>
         <a href="https://github.com/leon7786/20260923-iphone-wallpapers/blob/main/report.json" target="_blank" rel="noopener">完整清单</a>
       </div>
       <div class="f-links" style="margin-top:10px">
@@ -208,7 +204,6 @@ footer{border-top:1px solid var(--line);background:rgba(255,255,255,.7);padding:
 
 <script>
 const REPO = 'https://github.com/leon7786/20260923-iphone-wallpapers';
-const ZIP  = REPO + '/releases/download/v1.0/iPhone-stock-wallpapers-13to18.zip';
 const DATA_V = '3';   // bump when data.json is regenerated (GitHub Pages CDN caches .json for 10min)
 let DATA = null, gen = 'all', term = '';
 
@@ -292,8 +287,7 @@ function openLb(key) {
     (best.kb > 1024 ? (best.kb / 1024).toFixed(1) + ' MB' : best.kb + ' KB');
   document.getElementById('lbdl').innerHTML =
     it.files.map(f => '<a class="' + (f.ext === best.ext ? '' : 'alt') + '" href="' + encodeURI(f.file) +
-      '" download="' + esc(f.file.split('/').pop()) + '">下载 ' + f.ext + '</a>').join('') +
-    '<a class="alt" href="' + ZIP + '" download>整包 ZIP</a>';
+      '" download="' + esc(f.file.split('/').pop()) + '">下载 ' + f.ext + '</a>').join('');
   document.getElementById('lb').classList.add('on');
 }
 document.getElementById('lbclose').onclick = () => document.getElementById('lb').classList.remove('on');

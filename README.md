@@ -33,10 +33,6 @@ Apple 官方随机器型壁纸合集，从 **iPhone 13（2021）到 iPhone 18 Pr
 
 完整清单（含每个文件的尺寸、格式、体积）见 [`report.json`](report.json)。
 
-## 一键下载
-
-全部文件的打包 ZIP 在 [Releases](../../releases) 里（`iPhone-stock-wallpapers-13to18.zip`，约 349 MB）。
-
 ## 说明
 
 - **原图**：均为官方素材的最大尺寸。多数大于屏幕逻辑分辨率，因为 Apple 的原生壁纸素材本身留了视差余量
