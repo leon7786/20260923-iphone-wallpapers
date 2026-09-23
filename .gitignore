@@ -1,9 +1,15 @@
-# .gitignore — keep the repo to the wallpapers themselves
+# .gitignore — keep the repo to the site files; originals ship in Releases
 zips/
+zips_out/
 _extract/
 staging/
+staging2/
+recon/
+Apple-Wallpapers/
 art_*.html
 s_iPhone*.html
 wc.html
 *.log
+*.bak
 iPhone-stock-wallpapers-13to18.zip
+__pycache__/
