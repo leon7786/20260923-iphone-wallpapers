@@ -2,7 +2,7 @@
 
 iPhone / iPad / Mac / iOS 通用 / 特别主题壁纸合集，全部为**原始分辨率未压缩原件**，非截图、非二次加工。
 
-**5 个平台 · 78 个套装 · 1221 个原图文件 · 5.0 GB**
+**5 个平台 · 78 个套装 · 1197 个原图文件 · 4.3 GB**
 
 ![预览](preview.jpg)
 
@@ -18,7 +18,7 @@ iPhone / iPad / Mac / iOS 通用 / 特别主题壁纸合集，全部为**原始�
 |---|---|---|---|
 | [v2.0-iphone](https://github.com/leon7786/20260923-iphone-wallpapers/releases/tag/v2.0-iphone) | iPhone 13 → 18 | 15 | 348 MB |
 | [v2.0-ipad](https://github.com/leon7786/20260923-iphone-wallpapers/releases/tag/v2.0-ipad) | iPad / iPadOS 14 → 27 | 12 | 479 MB |
-| [v2.0-mac](https://github.com/leon7786/20260923-iphone-wallpapers/releases/tag/v2.0-mac) | macOS 10.15 → 27 / Mac 机型 / Apple 官方桌面图 | 21 | 3.38 GB |
+| [v2.0-mac](https://github.com/leon7786/20260923-iphone-wallpapers/releases/tag/v2.0-mac) | macOS 10.15 → 27 / Mac 机型 / Apple 官方桌面图 | 21 | 2.73 GB |
 | [v2.0-ios](https://github.com/leon7786/20260923-iphone-wallpapers/releases/tag/v2.0-ios) | iOS 通用 12 → 27 | 12 | 625 MB |
 | [v2.0-special](https://github.com/leon7786/20260923-iphone-wallpapers/releases/tag/v2.0-special) | WWDC / Pride / 店铺 / 节日 | 18 | 123 MB |
 
@@ -30,7 +30,7 @@ iPhone / iPad / Mac / iOS 通用 / 特别主题壁纸合集，全部为**原始�
 |---|---|---|---|---|
 | 01 iPhone | 15 | 151 | 352 MB | 13 / 14 / 15 / 16 / 17 / 18 Pro / Pro Max / Air / Duo（内外屏、光带、浅色、深色） |
 | 02 iPad | 12 | 265 | 484 MB | iPadOS 14 → 27、iPad Pro 2024、iPad Air 2024、iPad 2022、iPad Pro 2022 |
-| 03 Mac | 21 | 294 | 3.43 GB | macOS 10.15 → 27（Big Sur / Monterey / Ventura / Sonoma / Sequoia / Tahoe / Golden Gate）、MacBook Air 2022-2023、MacBook Pro 2023 / M3、iMac 2023 / M4、MacBook Neo |
+| 03 Mac | 21 | 270 | 2.73 GB | macOS 10.15 → 27（Big Sur / Monterey / Ventura / Sonoma / Sequoia / Tahoe / Golden Gate）、MacBook Air 2022-2023、MacBook Pro 2023 / M3、iMac 2023 / M4、MacBook Neo |
 | 04 iOS 通用 | 12 | 388 | 634 MB | iOS 12 → 27（含 16 / 17 / 18 / 26 全套） |
 | 05 特别主题 | 18 | 123 | 123 MB | WWDC 2015/2023/2024/2026、Far Out、iPhone 15 发布会、Pride 2023-2026、Unity Bloom、静安 / 江南 / Umeda / Borivali 店铺、小丑鱼初代、中国新年、地球日 |
 
@@ -63,8 +63,9 @@ iPhone / iPad / Mac / iOS 通用 / 特别主题壁纸合集，全部为**原始�
 - 71 个资产 / 共 1.81 GB，实测抓取后每包内含 `AssetData/<名称>.heic`，全部为 6016×6016（个别 5120×2880）原生 HEIC，
   例如 `Big Sur.heic` 132 MB、`Catalina.heic` 119 MB、`Monterey Graphic.heic` 93 MB
 - 命名规则：`Apple-<名称>.heic`；按名称归入对应套装，其余进入
-  `macOS-Apple-Nature`（自然风景，10 张）与 `macOS-Apple-Device-Themes`（机型与渐变主题，39 张）
-- 同步清理了 48 个同一幅画的低码率 JPEG 副本（−289 MB），旧版一律保留 Apple 原版
+  `macOS-Apple-Nature`（自然风景，10 张 / 502 MB）与 `macOS-Apple-Device-Themes`（Chroma / Light Stream / iMac 配色 / hello 等，21 张 / 329 MB）
+- 同步清理：48 个同一幅画的低码率 JPEG 副本（−289 MB）+ 24 个字节完全相同或码率更低的重复 HEIC（−337 MB）；
+  每个画面在库中只保留一份最高码率文件，机型主题图仍留在各自机型套装内
 - 注意：Apple 原版使用 **Display P3** 色彩空间，同尺寸下比第三方 sRGB JPEG 更饱和、细节更多
 
 iPhone / iPad / iOS 通用部分仍来自 iClarified 对 Apple 官方分辨率素材的整理包（含原生 HEIC 与 PNG）。
